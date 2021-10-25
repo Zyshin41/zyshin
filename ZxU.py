@@ -18,9 +18,10 @@ ok = []
 # Pastikan Jangan Ubah Bot Komen & Follownya :v #
 ua = ('Lenovo-A850/S105 Linux/3.4.0 Android/4.2 Release/06.12.2013 Browser/AppleWebKit534.30 Profile/ Configuration/ Safari/534.30')
 logo = ("""\033[1;97m 
-AUTOR=MUHAMMAD ZAINUL UMAM
-               BOWO ANAK NGENTOD
-
+AUTOR| MUHAMMAD ZAINUL UMAM
+FB   | Gak penting lah Cok
+SC   | KARI GAWE TOK AE OJO KAKEAN PROTES YO COK
+PREMIUM/AKTIF
 
 """)
 def __login__():
